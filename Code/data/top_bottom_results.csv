@@ -1,0 +1,1411 @@
+Type,name,Score,Metric
+Top,,,age
+Top,Łukasz Fabiański,38.0,age
+Top,Thiago Silva,38.0,age
+Top,Ashley Young,38.0,age
+,,,
+Bottom,,,age
+Bottom,Leon Chiwome,17.0,age
+Bottom,Lewis Miley,17.0,age
+Bottom,Facundo Buonanotte,18.0,age
+,,,
+Top,,,matches_played
+Top,Joachim Andersen,38.0,matches_played
+Top,Moussa Diaby,38.0,matches_played
+Top,Vitaly Janelt,38.0,matches_played
+,,,
+Bottom,,,matches_played
+Bottom,Alex Iwobi,2.0,matches_played
+Bottom,Neal Maupay,2.0,matches_played
+Bottom,Matheus Nunes,2.0,matches_played
+,,,
+Top,,,starts
+Top,Joachim Andersen,38.0,starts
+Top,Thomas Kaminski,38.0,starts
+Top,Max Kilman,38.0,starts
+,,,
+Bottom,,,starts
+Bottom,Naouirou Ahamada,0.0,starts
+Bottom,Kieffer Moore,0.0,starts
+Bottom,David Ozoh,0.0,starts
+,,,
+Top,,,minutes
+Top,Max Kilman,3420.0,minutes
+Top,Bernd Leno,3420.0,minutes
+Top,André Onana,3420.0,minutes
+,,,
+Bottom,,,minutes
+Bottom,John Fleck,92.0,minutes
+Bottom,Kalvin Phillips,93.0,minutes
+Bottom,Ivan Perišić,103.0,minutes
+,,,
+Top,,,non_penalty_goals
+Top,Erling Haaland,20.0,non_penalty_goals
+Top,Phil Foden,19.0,non_penalty_goals
+Top,Ollie Watkins,19.0,non_penalty_goals
+,,,
+Bottom,,,non_penalty_goals
+Bottom,Max Aarons,0.0,non_penalty_goals
+Bottom,Tyler Adams,0.0,non_penalty_goals
+Bottom,Naouirou Ahamada,0.0,non_penalty_goals
+,,,
+Top,,,penalty_goals
+Top,Cole Palmer,9.0,penalty_goals
+Top,Erling Haaland,7.0,penalty_goals
+Top,Bukayo Saka,6.0,penalty_goals
+,,,
+Bottom,,,penalty_goals
+Bottom,Max Aarons,0.0,penalty_goals
+Bottom,Tyler Adams,0.0,penalty_goals
+Bottom,Tosin Adarabioyo,0.0,penalty_goals
+,,,
+Top,,,assists
+Top,Ollie Watkins,13.0,assists
+Top,Cole Palmer,11.0,assists
+Top,Kevin De Bruyne,10.0,assists
+,,,
+Bottom,,,assists
+Bottom,Tyler Adams,0.0,assists
+Bottom,Tosin Adarabioyo,0.0,assists
+Bottom,Elijah Adebayo,0.0,assists
+,,,
+Top,,,yellow_cards
+Top,João Palhinha,13.0,yellow_cards
+Top,Marcos Senesi,13.0,yellow_cards
+Top,Anthony Gordon,12.0,yellow_cards
+,,,
+Bottom,,,yellow_cards
+Bottom,Tyler Adams,0.0,yellow_cards
+Bottom,Nathan Aké,0.0,yellow_cards
+Bottom,Amari'i Bell,0.0,yellow_cards
+,,,
+Top,,,red_cards
+Top,Yves Bissouma,2.0,red_cards
+Top,Reece James,2.0,red_cards
+Top,Oliver McBurnie,2.0,red_cards
+,,,
+Bottom,,,red_cards
+Bottom,Max Aarons,0.0,red_cards
+Bottom,Tyler Adams,0.0,red_cards
+Bottom,Tosin Adarabioyo,0.0,red_cards
+,,,
+Top,,,xG
+Top,Erling Haaland,29.2,xG
+Top,Mohamed Salah,21.2,xG
+Top,Alexander Isak,20.3,xG
+,,,
+Bottom,,,xG
+Bottom,Max Aarons,0.0,xG
+Bottom,Tyler Adams,0.0,xG
+Bottom,Alisson,0.0,xG
+,,,
+Top,,,npxG
+Top,Erling Haaland,22.9,npxG
+Top,Nicolas Jackson,18.6,npxG
+Top,Dominic Solanke,17.2,npxG
+,,,
+Bottom,,,npxG
+Bottom,Max Aarons,0.0,npxG
+Bottom,Tyler Adams,0.0,npxG
+Bottom,Alisson,0.0,npxG
+,,,
+Top,,,xAG
+Top,Bruno Fernandes,11.8,xAG
+Top,Son Heung-min,11.8,xAG
+Top,Mohamed Salah,11.8,xAG
+,,,
+Bottom,,,xAG
+Bottom,Naouirou Ahamada,0.0,xAG
+Bottom,Alisson,0.0,xAG
+Bottom,Mads Juel Andersen,0.0,xAG
+,,,
+Top,,,PrgC
+Top,Jeremy Doku,218.0,PrgC
+Top,Alejandro Garnacho,178.0,PrgC
+Top,Bukayo Saka,155.0,PrgC
+,,,
+Bottom,,,PrgC
+Bottom,Alisson,0.0,PrgC
+Bottom,Mads Juel Andersen,0.0,PrgC
+Bottom,Alphonse Areola,0.0,PrgC
+,,,
+Top,,,PrgP
+Top,Rodri,376.0,PrgP
+Top,Martin Ødegaard,344.0,PrgP
+Top,Pascal Groß,302.0,PrgP
+,,,
+Bottom,,,PrgP
+Bottom,Daniel Bentley,0.0,PrgP
+Bottom,Martin Dúbravka,0.0,PrgP
+Bottom,Wes Foderingham,0.0,PrgP
+,,,
+Top,,,PrgR
+Top,Bukayo Saka,508.0,PrgR
+Top,Dejan Kulusevski,388.0,PrgR
+Top,Gabriel Martinelli,345.0,PrgR
+,,,
+Bottom,,,PrgR
+Bottom,Alisson,0.0,PrgR
+Bottom,Alphonse Areola,0.0,PrgR
+Bottom,Daniel Bentley,0.0,PrgR
+,,,
+Top,,,Per_90_Gls
+Top,Sasa Kalajdzic,1.08,Per_90_Gls
+Top,Jhon Durán,0.95,Per_90_Gls
+Top,Erling Haaland,0.95,Per_90_Gls
+,,,
+Bottom,,,Per_90_Gls
+Bottom,Max Aarons,0.0,Per_90_Gls
+Bottom,Tyler Adams,0.0,Per_90_Gls
+Bottom,Naouirou Ahamada,0.0,Per_90_Gls
+,,,
+Top,,,Per_90_Ast
+Top,Manor Solomon,0.9,Per_90_Ast
+Top,Ivan Perišić,0.87,Per_90_Ast
+Top,Kevin De Bruyne,0.74,Per_90_Ast
+,,,
+Bottom,,,Per_90_Ast
+Bottom,Tyler Adams,0.0,Per_90_Ast
+Bottom,Tosin Adarabioyo,0.0,Per_90_Ast
+Bottom,Elijah Adebayo,0.0,Per_90_Ast
+,,,
+Top,,,Per_90_G+A
+Top,Adama Traoré,1.19,Per_90_G+A
+Top,Cole Palmer,1.14,Per_90_G+A
+Top,Erling Haaland,1.13,Per_90_G+A
+,,,
+Bottom,,,Per_90_G+A
+Bottom,Tyler Adams,0.0,Per_90_G+A
+Bottom,Naouirou Ahamada,0.0,Per_90_G+A
+Bottom,Alisson,0.0,Per_90_G+A
+,,,
+Top,,,Per_90_G-PK
+Top,Sasa Kalajdzic,1.08,Per_90_G-PK
+Top,Jhon Durán,0.95,Per_90_G-PK
+Top,Kieffer Moore,0.83,Per_90_G-PK
+,,,
+Bottom,,,Per_90_G-PK
+Bottom,Max Aarons,0.0,Per_90_G-PK
+Bottom,Tyler Adams,0.0,Per_90_G-PK
+Bottom,Naouirou Ahamada,0.0,Per_90_G-PK
+,,,
+Top,,,Per_90_G+A-PK
+Top,Adama Traoré,1.19,Per_90_G+A-PK
+Top,Enes Ünal,1.1,Per_90_G+A-PK
+Top,Sasa Kalajdzic,1.08,Per_90_G+A-PK
+,,,
+Bottom,,,Per_90_G+A-PK
+Bottom,Tyler Adams,0.0,Per_90_G+A-PK
+Bottom,Naouirou Ahamada,0.0,Per_90_G+A-PK
+Bottom,Alisson,0.0,Per_90_G+A-PK
+,,,
+Top,,,Per_90_xG
+Top,Kieffer Moore,1.23,Per_90_xG
+Top,Neal Maupay,1.16,Per_90_xG
+Top,Erling Haaland,1.03,Per_90_xG
+,,,
+Bottom,,,Per_90_xG
+Bottom,Max Aarons,0.0,Per_90_xG
+Bottom,Tyler Adams,0.0,Per_90_xG
+Bottom,Alisson,0.0,Per_90_xG
+,,,
+Top,,,Per_90_xAG
+Top,Kevin De Bruyne,0.85,Per_90_xAG
+Top,Ivan Perišić,0.75,Per_90_xAG
+Top,Sasa Kalajdzic,0.52,Per_90_xAG
+,,,
+Bottom,,,Per_90_xAG
+Bottom,Alisson,0.0,Per_90_xAG
+Bottom,Mads Juel Andersen,0.0,Per_90_xAG
+Bottom,Jaidon Anthony,0.0,Per_90_xAG
+,,,
+Top,,,Per_90_xG+xAG
+Top,Kieffer Moore,1.44,Per_90_xG+xAG
+Top,Neal Maupay,1.22,Per_90_xG+xAG
+Top,Erling Haaland,1.18,Per_90_xG+xAG
+,,,
+Bottom,,,Per_90_xG+xAG
+Bottom,Alisson,0.0,Per_90_xG+xAG
+Bottom,Alphonse Areola,0.0,Per_90_xG+xAG
+Bottom,Daniel Bentley,0.0,Per_90_xG+xAG
+,,,
+Top,,,Per_90_npxG
+Top,Kieffer Moore,1.23,Per_90_npxG
+Top,Neal Maupay,1.16,Per_90_npxG
+Top,Erling Haaland,0.81,Per_90_npxG
+,,,
+Bottom,,,Per_90_npxG
+Bottom,Max Aarons,0.0,Per_90_npxG
+Bottom,Tyler Adams,0.0,Per_90_npxG
+Bottom,Alisson,0.0,Per_90_npxG
+,,,
+Top,,,Per_90_npxG+xAG
+Top,Kieffer Moore,1.44,Per_90_npxG+xAG
+Top,Neal Maupay,1.22,Per_90_npxG+xAG
+Top,Sasa Kalajdzic,1.09,Per_90_npxG+xAG
+,,,
+Bottom,,,Per_90_npxG+xAG
+Bottom,Alisson,0.0,Per_90_npxG+xAG
+Bottom,Alphonse Areola,0.0,Per_90_npxG+xAG
+Bottom,Daniel Bentley,0.0,Per_90_npxG+xAG
+,,,
+Top,,,Gls
+Top,Erling Haaland,27.0,Gls
+Top,Cole Palmer,22.0,Gls
+Top,Alexander Isak,21.0,Gls
+,,,
+Bottom,,,Gls
+Bottom,Max Aarons,0.0,Gls
+Bottom,Tyler Adams,0.0,Gls
+Bottom,Naouirou Ahamada,0.0,Gls
+,,,
+Top,,,Sh
+Top,Erling Haaland,113.0,Sh
+Top,Darwin Núñez,107.0,Sh
+Top,Mohamed Salah,107.0,Sh
+,,,
+Bottom,,,Sh
+Bottom,Tyler Adams,0.0,Sh
+Bottom,Alisson,0.0,Sh
+Bottom,Alphonse Areola,0.0,Sh
+,,,
+Top,,,SoT
+Top,Erling Haaland,50.0,SoT
+Top,Phil Foden,48.0,SoT
+Top,Mohamed Salah,47.0,SoT
+,,,
+Bottom,,,SoT
+Bottom,Max Aarons,0.0,SoT
+Bottom,Tyler Adams,0.0,SoT
+Bottom,Alisson,0.0,SoT
+,,,
+Top,,,Sh/90
+Top,Enes Ünal,6.31,Sh/90
+Top,Julio Enciso,5.31,Sh/90
+Top,Kieffer Moore,5.0,Sh/90
+,,,
+Bottom,,,Sh/90
+Bottom,Tyler Adams,0.0,Sh/90
+Bottom,Alisson,0.0,Sh/90
+Bottom,Alphonse Areola,0.0,Sh/90
+,,,
+Top,,,SoT/90
+Top,Neal Maupay,3.24,SoT/90
+Top,Matt Ritchie,2.81,SoT/90
+Top,Enes Ünal,2.2,SoT/90
+,,,
+Bottom,,,SoT/90
+Bottom,Max Aarons,0.0,SoT/90
+Bottom,Tyler Adams,0.0,SoT/90
+Bottom,Alisson,0.0,SoT/90
+,,,
+Top,,,FK
+Top,James Ward-Prowse,16.0,FK
+Top,Julián Álvarez,13.0,FK
+Top,Eberechi Eze,12.0,FK
+,,,
+Bottom,,,FK
+Bottom,Max Aarons,0.0,FK
+Bottom,Tyler Adams,0.0,FK
+Bottom,Tosin Adarabioyo,0.0,FK
+,,,
+Top,,,PK
+Top,Cole Palmer,9.0,PK
+Top,Erling Haaland,7.0,PK
+Top,Bukayo Saka,6.0,PK
+,,,
+Bottom,,,PK
+Bottom,Max Aarons,0.0,PK
+Bottom,Tyler Adams,0.0,PK
+Bottom,Tosin Adarabioyo,0.0,PK
+,,,
+Top,,,PKatt.1
+Top,Cole Palmer,9.0,PKatt.1
+Top,Erling Haaland,8.0,PKatt.1
+Top,Mohamed Salah,7.0,PKatt.1
+,,,
+Bottom,,,PKatt.1
+Bottom,Max Aarons,0.0,PKatt.1
+Bottom,Tyler Adams,0.0,PKatt.1
+Bottom,Tosin Adarabioyo,0.0,PKatt.1
+,,,
+Top,,,xG_shooting
+Top,Erling Haaland,29.2,xG_shooting
+Top,Mohamed Salah,21.2,xG_shooting
+Top,Alexander Isak,20.3,xG_shooting
+,,,
+Bottom,,,xG_shooting
+Bottom,Max Aarons,0.0,xG_shooting
+Bottom,Tyler Adams,0.0,xG_shooting
+Bottom,Alisson,0.0,xG_shooting
+,,,
+Top,,,npxG_shooting
+Top,Erling Haaland,22.9,npxG_shooting
+Top,Nicolas Jackson,18.6,npxG_shooting
+Top,Dominic Solanke,17.2,npxG_shooting
+,,,
+Bottom,,,npxG_shooting
+Bottom,Max Aarons,0.0,npxG_shooting
+Bottom,Tyler Adams,0.0,npxG_shooting
+Bottom,Alisson,0.0,npxG_shooting
+,,,
+Top,,,G-xG
+Top,Phil Foden,8.7,G-xG
+Top,Callum Hudson-Odoi,5.3,G-xG
+Top,Jean-Philippe Mateta,5.1,G-xG
+,,,
+Bottom,,,G-xG
+Bottom,Dominic Calvert-Lewin,-5.9,G-xG
+Bottom,Brennan Johnson,-5.3,G-xG
+Bottom,Darwin Núñez,-5.3,G-xG
+,,,
+Top,,,np:G-xG
+Top,Phil Foden,8.7,np:G-xG
+Top,Callum Hudson-Odoi,5.3,np:G-xG
+Top,Diogo Jota,4.7,np:G-xG
+,,,
+Bottom,,,np:G-xG
+Bottom,Dominic Calvert-Lewin,-6.4,np:G-xG
+Bottom,Brennan Johnson,-5.3,np:G-xG
+Bottom,Nicolas Jackson,-4.6,np:G-xG
+,,,
+Top,,,Pass_Cmp
+Top,Rodri,3365.0,Pass_Cmp
+Top,Lewis Dunk,2977.0,Pass_Cmp
+Top,Pascal Groß,2774.0,Pass_Cmp
+,,,
+Bottom,,,Pass_Cmp
+Bottom,Leon Chiwome,19.0,Pass_Cmp
+Bottom,Neal Maupay,22.0,Pass_Cmp
+Bottom,Alex Iwobi,27.0,Pass_Cmp
+,,,
+Top,,,Pass_Att
+Top,Rodri,3656.0,Pass_Att
+Top,Lewis Dunk,3233.0,Pass_Att
+Top,Pascal Groß,3223.0,Pass_Att
+,,,
+Bottom,,,Pass_Att
+Bottom,Leon Chiwome,22.0,Pass_Att
+Bottom,Neal Maupay,26.0,Pass_Att
+Bottom,Hannibal Mejbri,38.0,Pass_Att
+,,,
+Top,,,Pass_Cmp%
+Top,Thiago Silva,94.7,Pass_Cmp%
+Top,David Ozoh,94.1,Pass_Cmp%
+Top,Mateo Kovačić,94.0,Pass_Cmp%
+,,,
+Bottom,,,Pass_Cmp%
+Bottom,Ivo Grbić,49.7,Pass_Cmp%
+Bottom,William Osula,52.7,Pass_Cmp%
+Bottom,Ivan Toney,53.5,Pass_Cmp%
+,,,
+Top,,,TotDist
+Top,Rodri,57256.0,TotDist
+Top,Lewis Dunk,50791.0,TotDist
+Top,Virgil van Dijk,49290.0,TotDist
+,,,
+Bottom,,,TotDist
+Bottom,Leon Chiwome,244.0,TotDist
+Bottom,Kieffer Moore,272.0,TotDist
+Bottom,Neal Maupay,353.0,TotDist
+,,,
+Top,,,PrgDist
+Top,Jordan Pickford,26388.0,PrgDist
+Top,Mark Flekken,22385.0,PrgDist
+Top,Thomas Kaminski,22188.0,PrgDist
+,,,
+Bottom,,,PrgDist
+Bottom,Neal Maupay,14.0,PrgDist
+Bottom,Nathan Fraser,45.0,PrgDist
+Bottom,Leon Chiwome,59.0,PrgDist
+,,,
+Top,,,Short_Cmp
+Top,Rodri,1676.0,Short_Cmp
+Top,Pascal Groß,1583.0,Short_Cmp
+Top,Lewis Dunk,1343.0,Short_Cmp
+,,,
+Bottom,,,Short_Cmp
+Bottom,Thomas Strakosha,6.0,Short_Cmp
+Bottom,Mark Travers,10.0,Short_Cmp
+Bottom,Leon Chiwome,12.0,Short_Cmp
+,,,
+Top,,,Short_Att
+Top,Rodri,1774.0,Short_Att
+Top,Pascal Groß,1674.0,Short_Att
+Top,Lewis Dunk,1382.0,Short_Att
+,,,
+Bottom,,,Short_Att
+Bottom,Thomas Strakosha,6.0,Short_Att
+Bottom,Mark Travers,10.0,Short_Att
+Bottom,Leon Chiwome,13.0,Short_Att
+,,,
+Top,,,Short_Cmp%
+Top,Daniel Bentley,100.0,Short_Cmp%
+Top,Łukasz Fabiański,100.0,Short_Cmp%
+Top,Ivo Grbić,100.0,Short_Cmp%
+,,,
+Bottom,,,Short_Cmp%
+Bottom,William Osula,58.9,Short_Cmp%
+Bottom,Youssef Chermiti,59.4,Short_Cmp%
+Bottom,Ivan Toney,61.6,Short_Cmp%
+,,,
+Top,,,Medium_Cmp
+Top,Virgil van Dijk,1343.0,Medium_Cmp
+Top,Lewis Dunk,1340.0,Medium_Cmp
+Top,William Saliba,1298.0,Medium_Cmp
+,,,
+Bottom,,,Medium_Cmp
+Bottom,Kieffer Moore,4.0,Medium_Cmp
+Bottom,Leon Chiwome,6.0,Medium_Cmp
+Bottom,Maxwel Cornet,6.0,Medium_Cmp
+,,,
+Top,,,Medium_Att
+Top,Lewis Dunk,1417.0,Medium_Att
+Top,Virgil van Dijk,1412.0,Medium_Att
+Top,William Saliba,1373.0,Medium_Att
+,,,
+Bottom,,,Medium_Att
+Bottom,Leon Chiwome,6.0,Medium_Att
+Bottom,Maxwel Cornet,8.0,Medium_Att
+Bottom,Kieffer Moore,8.0,Medium_Att
+,,,
+Top,,,Medium_Cmp%
+Top,Daniel Bentley,100.0,Medium_Cmp%
+Top,Leon Chiwome,100.0,Medium_Cmp%
+Top,Łukasz Fabiański,100.0,Medium_Cmp%
+,,,
+Bottom,,,Medium_Cmp%
+Bottom,William Osula,40.0,Medium_Cmp%
+Bottom,Rhian Brewster,45.5,Medium_Cmp%
+Bottom,Dominic Calvert-Lewin,49.5,Medium_Cmp%
+,,,
+Top,,,Long_Cmp
+Top,Jordan Pickford,461.0,Long_Cmp
+Top,Mark Flekken,394.0,Long_Cmp
+Top,Thomas Kaminski,362.0,Long_Cmp
+,,,
+Bottom,,,Long_Cmp
+Bottom,Maxwel Cornet,0.0,Long_Cmp
+Bottom,Nathan Fraser,0.0,Long_Cmp
+Bottom,Tim Iroegbunam,0.0,Long_Cmp
+,,,
+Top,,,Long_Att
+Top,Jordan Pickford,1031.0,Long_Att
+Top,Thomas Kaminski,937.0,Long_Att
+Top,Mark Flekken,832.0,Long_Att
+,,,
+Bottom,,,Long_Att
+Bottom,Nathan Fraser,0.0,Long_Att
+Bottom,Tim Iroegbunam,0.0,Long_Att
+Bottom,Kieffer Moore,0.0,Long_Att
+,,,
+Top,,,Ast
+Top,Ollie Watkins,13.0,Ast
+Top,Cole Palmer,11.0,Ast
+Top,Kevin De Bruyne,10.0,Ast
+,,,
+Bottom,,,Ast
+Bottom,Tyler Adams,0.0,Ast
+Bottom,Tosin Adarabioyo,0.0,Ast
+Bottom,Elijah Adebayo,0.0,Ast
+,,,
+Top,,,xAG.1
+Top,Bruno Fernandes,11.8,xAG.1
+Top,Son Heung-min,11.8,xAG.1
+Top,Mohamed Salah,11.8,xAG.1
+,,,
+Bottom,,,xAG.1
+Bottom,Naouirou Ahamada,0.0,xAG.1
+Bottom,Alisson,0.0,xAG.1
+Bottom,Mads Juel Andersen,0.0,xAG.1
+,,,
+Top,,,xA
+Top,Martin Ødegaard,11.2,xA
+Top,Bukayo Saka,11.0,xA
+Top,Bruno Fernandes,10.2,xA
+,,,
+Bottom,,,xA
+Bottom,Tyler Adams,0.0,xA
+Bottom,Alisson,0.0,xA
+Bottom,Mads Juel Andersen,0.0,xA
+,,,
+Top,,,A-xAG
+Top,Ollie Watkins,5.7,A-xAG
+Top,Rodri,5.1,A-xAG
+Top,Pedro Neto,4.6,A-xAG
+,,,
+Bottom,,,A-xAG
+Bottom,Dejan Kulusevski,-4.7,A-xAG
+Bottom,Bruno Fernandes,-3.8,A-xAG
+Bottom,Dominik Szoboszlai,-3.8,A-xAG
+,,,
+Top,,,KP
+Top,Bruno Fernandes,114.0,KP
+Top,Pascal Groß,103.0,KP
+Top,Martin Ødegaard,102.0,KP
+,,,
+Bottom,,,KP
+Bottom,Mads Juel Andersen,0.0,KP
+Bottom,Jaidon Anthony,0.0,KP
+Bottom,Alphonse Areola,0.0,KP
+,,,
+Top,,,1/3
+Top,Rodri,378.0,1/3
+Top,Pascal Groß,242.0,1/3
+Top,Declan Rice,240.0,1/3
+,,,
+Bottom,,,1/3
+Bottom,Maxwel Cornet,0.0,1/3
+Bottom,Lewis Dobbin,0.0,1/3
+Bottom,Nathan Fraser,0.0,1/3
+,,,
+Top,,,PPA
+Top,Martin Ødegaard,130.0,PPA
+Top,Bruno Fernandes,89.0,PPA
+Top,Pascal Groß,73.0,PPA
+,,,
+Bottom,,,PPA
+Bottom,Tyler Adams,0.0,PPA
+Bottom,Naouirou Ahamada,0.0,PPA
+Bottom,Alisson,0.0,PPA
+,,,
+Top,,,CrsPA
+Top,Pascal Groß,27.0,CrsPA
+Top,Antonee Robinson,26.0,CrsPA
+Top,Alfie Doughty,24.0,CrsPA
+,,,
+Bottom,,,CrsPA
+Bottom,Tyler Adams,0.0,CrsPA
+Bottom,Tosin Adarabioyo,0.0,CrsPA
+Bottom,Elijah Adebayo,0.0,CrsPA
+,,,
+Top,,,PrgP.1
+Top,Rodri,376.0,PrgP.1
+Top,Martin Ødegaard,344.0,PrgP.1
+Top,Pascal Groß,302.0,PrgP.1
+,,,
+Bottom,,,PrgP.1
+Bottom,Daniel Bentley,0.0,PrgP.1
+Bottom,Martin Dúbravka,0.0,PrgP.1
+Bottom,Wes Foderingham,0.0,PrgP.1
+,,,
+Top,,,Pass_Live
+Top,Rodri,3572.0,Pass_Live
+Top,Lewis Dunk,3005.0,Pass_Live
+Top,Pascal Groß,2903.0,Pass_Live
+,,,
+Bottom,,,Pass_Live
+Bottom,Leon Chiwome,18.0,Pass_Live
+Bottom,Neal Maupay,23.0,Pass_Live
+Bottom,Alex Iwobi,34.0,Pass_Live
+,,,
+Top,,,Pass_Dead
+Top,Jordan Pickford,496.0,Pass_Dead
+Top,Thomas Kaminski,493.0,Pass_Dead
+Top,Alfie Doughty,489.0,Pass_Dead
+,,,
+Bottom,,,Pass_Dead
+Bottom,Calum Chambers,0.0,Pass_Dead
+Bottom,Carney Chukwuemeka,0.0,Pass_Dead
+Bottom,Leander Dendoncker,0.0,Pass_Dead
+,,,
+Top,,,Pass_FK
+Top,Jordan Pickford,223.0,Pass_FK
+Top,Mark Flekken,166.0,Pass_FK
+Top,Thomas Kaminski,152.0,Pass_FK
+,,,
+Bottom,,,Pass_FK
+Bottom,Elijah Adebayo,0.0,Pass_FK
+Bottom,Mads Juel Andersen,0.0,Pass_FK
+Bottom,Cameron Archer,0.0,Pass_FK
+,,,
+Top,,,Pass_TB
+Top,Martin Ødegaard,39.0,Pass_TB
+Top,Bruno Fernandes,30.0,Pass_TB
+Top,Lucas Paquetá,30.0,Pass_TB
+,,,
+Bottom,,,Pass_TB
+Bottom,Tyler Adams,0.0,Pass_TB
+Bottom,Naouirou Ahamada,0.0,Pass_TB
+Bottom,Alisson,0.0,Pass_TB
+,,,
+Top,,,Pass_Sw
+Top,Fabian Schär,41.0,Pass_Sw
+Top,Rodri,36.0,Pass_Sw
+Top,Trent Alexander-Arnold,32.0,Pass_Sw
+,,,
+Bottom,,,Pass_Sw
+Bottom,Elijah Adebayo,0.0,Pass_Sw
+Bottom,Naouirou Ahamada,0.0,Pass_Sw
+Bottom,Miguel Almirón,0.0,Pass_Sw
+,,,
+Top,,,Pass_Crs
+Top,Alfie Doughty,340.0,Pass_Crs
+Top,Pascal Groß,238.0,Pass_Crs
+Top,Dwight McNeil,229.0,Pass_Crs
+,,,
+Bottom,,,Pass_Crs
+Bottom,Alisson,0.0,Pass_Crs
+Bottom,Mads Juel Andersen,0.0,Pass_Crs
+Bottom,Alphonse Areola,0.0,Pass_Crs
+,,,
+Top,,,Pass_TI
+Top,Tyrick Mitchell,347.0,Pass_TI
+Top,Vladimír Coufal,319.0,Pass_TI
+Top,Pedro Porro,295.0,Pass_TI
+,,,
+Bottom,,,Pass_TI
+Bottom,Alisson,0.0,Pass_TI
+Bottom,Zeki Amdouni,0.0,Pass_TI
+Bottom,Jaidon Anthony,0.0,Pass_TI
+,,,
+Top,,,Pass_CK
+Top,Alfie Doughty,151.0,Pass_CK
+Top,Bruno Fernandes,151.0,Pass_CK
+Top,Andreas Pereira,148.0,Pass_CK
+,,,
+Bottom,,,Pass_CK
+Bottom,Max Aarons,0.0,Pass_CK
+Bottom,Tyler Adams,0.0,Pass_CK
+Bottom,Tosin Adarabioyo,0.0,Pass_CK
+,,,
+Top,,,In
+Top,Bukayo Saka,99.0,In
+Top,Lewis Cook,81.0,In
+Top,Alfie Doughty,66.0,In
+,,,
+Bottom,,,In
+Bottom,Max Aarons,0.0,In
+Bottom,Tyler Adams,0.0,In
+Bottom,Tosin Adarabioyo,0.0,In
+,,,
+Top,,,Out
+Top,Alfie Doughty,80.0,Out
+Top,Andreas Pereira,74.0,Out
+Top,Pascal Groß,57.0,Out
+,,,
+Bottom,,,Out
+Bottom,Max Aarons,0.0,Out
+Bottom,Tyler Adams,0.0,Out
+Bottom,Tosin Adarabioyo,0.0,Out
+,,,
+Top,,,Str
+Top,Pablo Sarabia,10.0,Str
+Top,Bruno Fernandes,8.0,Str
+Top,Kieran Trippier,8.0,Str
+,,,
+Bottom,,,Str
+Bottom,Max Aarons,0.0,Str
+Bottom,Tyler Adams,0.0,Str
+Bottom,Tosin Adarabioyo,0.0,Str
+,,,
+Top,,,Pass_Cmp_outcome
+Top,Rodri,3365.0,Pass_Cmp_outcome
+Top,Lewis Dunk,2977.0,Pass_Cmp_outcome
+Top,Pascal Groß,2774.0,Pass_Cmp_outcome
+,,,
+Bottom,,,Pass_Cmp_outcome
+Bottom,Leon Chiwome,19.0,Pass_Cmp_outcome
+Bottom,Neal Maupay,22.0,Pass_Cmp_outcome
+Bottom,Alex Iwobi,27.0,Pass_Cmp_outcome
+,,,
+Top,,,Pass_Off
+Top,Bruno Fernandes,23.0,Pass_Off
+Top,Enzo Fernández,17.0,Pass_Off
+Top,Martin Ødegaard,16.0,Pass_Off
+,,,
+Bottom,,,Pass_Off
+Bottom,Tyler Adams,0.0,Pass_Off
+Bottom,Naouirou Ahamada,0.0,Pass_Off
+Bottom,Mads Juel Andersen,0.0,Pass_Off
+,,,
+Top,,,Pass_Blocks
+Top,Tyrick Mitchell,70.0,Pass_Blocks
+Top,Pedro Porro,68.0,Pass_Blocks
+Top,Antonee Robinson,68.0,Pass_Blocks
+,,,
+Bottom,,,Pass_Blocks
+Bottom,Tyler Adams,0.0,Pass_Blocks
+Bottom,Alphonse Areola,0.0,Pass_Blocks
+Bottom,Daniel Bentley,0.0,Pass_Blocks
+,,,
+Top,,,SCA
+Top,Martin Ødegaard,220.0,SCA
+Top,Bruno Fernandes,210.0,SCA
+Top,Bukayo Saka,188.0,SCA
+,,,
+Bottom,,,SCA
+Bottom,Mads Juel Andersen,0.0,SCA
+Bottom,Martin Dúbravka,0.0,SCA
+Bottom,Tim Iroegbunam,0.0,SCA
+,,,
+Top,,,SCA90
+Top,Manor Solomon,8.59,SCA90
+Top,Alex Iwobi,7.77,SCA90
+Top,Kevin De Bruyne,7.36,SCA90
+,,,
+Bottom,,,SCA90
+Bottom,Mads Juel Andersen,0.0,SCA90
+Bottom,Martin Dúbravka,0.0,SCA90
+Bottom,Tim Iroegbunam,0.0,SCA90
+,,,
+Top,,,SCA_PassLive
+Top,Martin Ødegaard,178.0,SCA_PassLive
+Top,Bruno Fernandes,143.0,SCA_PassLive
+Top,Bukayo Saka,137.0,SCA_PassLive
+,,,
+Bottom,,,SCA_PassLive
+Bottom,Mads Juel Andersen,0.0,SCA_PassLive
+Bottom,Martin Dúbravka,0.0,SCA_PassLive
+Bottom,John Egan,0.0,SCA_PassLive
+,,,
+Top,,,SCA_PassDead
+Top,Pascal Groß,54.0,SCA_PassDead
+Top,James Ward-Prowse,51.0,SCA_PassDead
+Top,Bruno Fernandes,48.0,SCA_PassDead
+,,,
+Bottom,,,SCA_PassDead
+Bottom,Tosin Adarabioyo,0.0,SCA_PassDead
+Bottom,Elijah Adebayo,0.0,SCA_PassDead
+Bottom,Naouirou Ahamada,0.0,SCA_PassDead
+,,,
+Top,,,SCA_TO
+Top,Mohammed Kudus,25.0,SCA_TO
+Top,Nicolas Jackson,18.0,SCA_TO
+Top,Jeremy Doku,17.0,SCA_TO
+,,,
+Bottom,,,SCA_TO
+Bottom,Max Aarons,0.0,SCA_TO
+Bottom,Tyler Adams,0.0,SCA_TO
+Bottom,Tosin Adarabioyo,0.0,SCA_TO
+,,,
+Top,,,SCA_Sh
+Top,Mohamed Salah,21.0,SCA_Sh
+Top,Ollie Watkins,18.0,SCA_Sh
+Top,Luis Díaz,15.0,SCA_Sh
+,,,
+Bottom,,,SCA_Sh
+Bottom,Max Aarons,0.0,SCA_Sh
+Bottom,Tyler Adams,0.0,SCA_Sh
+Bottom,Naouirou Ahamada,0.0,SCA_Sh
+,,,
+Top,,,SCA_Fld
+Top,Anthony Gordon,13.0,SCA_Fld
+Top,Jordan Ayew,12.0,SCA_Fld
+Top,Alejandro Garnacho,12.0,SCA_Fld
+,,,
+Bottom,,,SCA_Fld
+Bottom,Tyler Adams,0.0,SCA_Fld
+Bottom,Tosin Adarabioyo,0.0,SCA_Fld
+Bottom,Nayef Aguerd,0.0,SCA_Fld
+,,,
+Top,,,SCA_Def
+Top,Conor Gallagher,6.0,SCA_Def
+Top,Idrissa Gana Gueye,6.0,SCA_Def
+Top,Bruno Guimarães,6.0,SCA_Def
+,,,
+Bottom,,,SCA_Def
+Bottom,Max Aarons,0.0,SCA_Def
+Bottom,Tyler Adams,0.0,SCA_Def
+Bottom,Tosin Adarabioyo,0.0,SCA_Def
+,,,
+Top,,,GCA
+Top,Anthony Gordon,29.0,GCA
+Top,Cole Palmer,26.0,GCA
+Top,Ollie Watkins,26.0,GCA
+,,,
+Bottom,,,GCA
+Bottom,Tyler Adams,0.0,GCA
+Bottom,Tosin Adarabioyo,0.0,GCA
+Bottom,Nayef Aguerd,0.0,GCA
+,,,
+Top,,,GCA90
+Top,Oscar Bobb,1.79,GCA90
+Top,Ivan Perišić,1.75,GCA90
+Top,Carney Chukwuemeka,1.59,GCA90
+,,,
+Bottom,,,GCA90
+Bottom,Tyler Adams,0.0,GCA90
+Bottom,Tosin Adarabioyo,0.0,GCA90
+Bottom,Nayef Aguerd,0.0,GCA90
+,,,
+Top,,,GCA_PassLive
+Top,Cole Palmer,20.0,GCA_PassLive
+Top,Martin Ødegaard,18.0,GCA_PassLive
+Top,Rodri,17.0,GCA_PassLive
+,,,
+Bottom,,,GCA_PassLive
+Bottom,Tyler Adams,0.0,GCA_PassLive
+Bottom,Tosin Adarabioyo,0.0,GCA_PassLive
+Bottom,Nayef Aguerd,0.0,GCA_PassLive
+,,,
+Top,,,GCA_PassDead
+Top,James Ward-Prowse,7.0,GCA_PassDead
+Top,Alfie Doughty,5.0,GCA_PassDead
+Top,Conor Gallagher,5.0,GCA_PassDead
+,,,
+Bottom,,,GCA_PassDead
+Bottom,Max Aarons,0.0,GCA_PassDead
+Bottom,Tyler Adams,0.0,GCA_PassDead
+Bottom,Tosin Adarabioyo,0.0,GCA_PassDead
+,,,
+Top,,,GCA_TO
+Top,Anthony Gordon,5.0,GCA_TO
+Top,Pascal Groß,4.0,GCA_TO
+Top,Bruno Guimarães,4.0,GCA_TO
+,,,
+Bottom,,,GCA_TO
+Bottom,Max Aarons,0.0,GCA_TO
+Bottom,Tyler Adams,0.0,GCA_TO
+Bottom,Tosin Adarabioyo,0.0,GCA_TO
+,,,
+Top,,,GCA_Sh
+Top,Ollie Watkins,7.0,GCA_Sh
+Top,Anthony Gordon,4.0,GCA_Sh
+Top,Elijah Adebayo,3.0,GCA_Sh
+,,,
+Bottom,,,GCA_Sh
+Bottom,Max Aarons,0.0,GCA_Sh
+Bottom,Tyler Adams,0.0,GCA_Sh
+Bottom,Tosin Adarabioyo,0.0,GCA_Sh
+,,,
+Top,,,GCA_Fld
+Top,Anthony Gordon,5.0,GCA_Fld
+Top,Chiedozie Ogbene,4.0,GCA_Fld
+Top,Rayan Aït-Nouri,3.0,GCA_Fld
+,,,
+Bottom,,,GCA_Fld
+Bottom,Max Aarons,0.0,GCA_Fld
+Bottom,Tyler Adams,0.0,GCA_Fld
+Bottom,Tosin Adarabioyo,0.0,GCA_Fld
+,,,
+Top,,,GCA_Def
+Top,Antony,2.0,GCA_Def
+Top,James Garner,2.0,GCA_Def
+Top,Cole Palmer,2.0,GCA_Def
+,,,
+Bottom,,,GCA_Def
+Bottom,Max Aarons,0.0,GCA_Def
+Bottom,Tyler Adams,0.0,GCA_Def
+Bottom,Tosin Adarabioyo,0.0,GCA_Def
+,,,
+Top,,,Tkl
+Top,João Palhinha,152.0,Tkl
+Top,João Gomes,128.0,Tkl
+Top,Vinicius Souza,125.0,Tkl
+,,,
+Bottom,,,Tkl
+Bottom,Alisson,0.0,Tkl
+Bottom,Daniel Bentley,0.0,Tkl
+Bottom,Martin Dúbravka,0.0,Tkl
+,,,
+Top,,,TklW
+Top,Vinicius Souza,76.0,TklW
+Top,João Palhinha,75.0,TklW
+Top,João Gomes,74.0,TklW
+,,,
+Bottom,,,TklW
+Bottom,Alisson,0.0,TklW
+Bottom,Daniel Bentley,0.0,TklW
+Bottom,Armando Broja,0.0,TklW
+,,,
+Top,,,Def_3rd
+Top,João Palhinha,80.0,Def_3rd
+Top,Tyrick Mitchell,75.0,Def_3rd
+Top,João Gomes,67.0,Def_3rd
+,,,
+Bottom,,,Def_3rd
+Bottom,Alisson,0.0,Def_3rd
+Bottom,Daniel Bentley,0.0,Def_3rd
+Bottom,Armando Broja,0.0,Def_3rd
+,,,
+Top,,,Mid_3rd
+Top,João Palhinha,60.0,Mid_3rd
+Top,Vinicius Souza,51.0,Mid_3rd
+Top,Alexis Mac Allister,50.0,Mid_3rd
+,,,
+Bottom,,,Mid_3rd
+Bottom,Elijah Adebayo,0.0,Mid_3rd
+Bottom,Alisson,0.0,Mid_3rd
+Bottom,Jaidon Anthony,0.0,Mid_3rd
+,,,
+Top,,,Att_3rd
+Top,Dejan Kulusevski,23.0,Att_3rd
+Top,Bukayo Saka,20.0,Att_3rd
+Top,Ryan Christie,17.0,Att_3rd
+,,,
+Bottom,,,Att_3rd
+Bottom,Tyler Adams,0.0,Att_3rd
+Bottom,Tosin Adarabioyo,0.0,Att_3rd
+Bottom,Nayef Aguerd,0.0,Att_3rd
+,,,
+Top,,,Challenges_Tkl
+Top,João Palhinha,103.0,Challenges_Tkl
+Top,Pedro Porro,62.0,Challenges_Tkl
+Top,Alexis Mac Allister,59.0,Challenges_Tkl
+,,,
+Bottom,,,Challenges_Tkl
+Bottom,Alisson,0.0,Challenges_Tkl
+Bottom,Daniel Bentley,0.0,Challenges_Tkl
+Bottom,Rhian Brewster,0.0,Challenges_Tkl
+,,,
+Top,,,Challenges_Att
+Top,João Palhinha,152.0,Challenges_Att
+Top,Alexis Mac Allister,125.0,Challenges_Att
+Top,Pedro Porro,120.0,Challenges_Att
+,,,
+Bottom,,,Challenges_Att
+Bottom,Caoimhín Kelleher,0.0,Challenges_Att
+Bottom,Bernd Leno,0.0,Challenges_Att
+Bottom,Benson Manuel,0.0,Challenges_Att
+,,,
+Top,,,Challenges_Lost
+Top,Mathias Jensen,69.0,Challenges_Lost
+Top,Alexis Mac Allister,66.0,Challenges_Lost
+Top,Trent Alexander-Arnold,60.0,Challenges_Lost
+,,,
+Bottom,,,Challenges_Lost
+Bottom,Mads Juel Andersen,0.0,Challenges_Lost
+Bottom,Eric Dier,0.0,Challenges_Lost
+Bottom,Radu Drăgușin,0.0,Challenges_Lost
+,,,
+Top,,,Blocks
+Top,James Tarkowski,82.0,Blocks
+Top,Casemiro,74.0,Blocks
+Top,Alexis Mac Allister,65.0,Blocks
+,,,
+Bottom,,,Blocks
+Bottom,Alisson,0.0,Blocks
+Bottom,Alphonse Areola,0.0,Blocks
+Bottom,Daniel Bentley,0.0,Blocks
+,,,
+Top,,,Blocks_Sh
+Top,James Tarkowski,56.0,Blocks_Sh
+Top,Craig Dawson,39.0,Blocks_Sh
+Top,Fabian Schär,38.0,Blocks_Sh
+,,,
+Bottom,,,Blocks_Sh
+Bottom,Tyler Adams,0.0,Blocks_Sh
+Bottom,Naouirou Ahamada,0.0,Blocks_Sh
+Bottom,Alisson,0.0,Blocks_Sh
+,,,
+Top,,,Blocks_Pass
+Top,Alexis Mac Allister,57.0,Blocks_Pass
+Top,Tyrick Mitchell,53.0,Blocks_Pass
+Top,João Palhinha,48.0,Blocks_Pass
+,,,
+Bottom,,,Blocks_Pass
+Bottom,Alisson,0.0,Blocks_Pass
+Bottom,Alphonse Areola,0.0,Blocks_Pass
+Bottom,Daniel Bentley,0.0,Blocks_Pass
+,,,
+Top,,,Blocks_Int
+Top,Antonee Robinson,80.0,Blocks_Int
+Top,Lewis Cook,65.0,Blocks_Int
+Top,Teden Mengi,57.0,Blocks_Int
+,,,
+Bottom,,,Blocks_Int
+Bottom,Alisson,0.0,Blocks_Int
+Bottom,Daniel Bentley,0.0,Blocks_Int
+Bottom,Luke Berry,0.0,Blocks_Int
+,,,
+Top,,,Blocks_Tkl+Int
+Top,João Palhinha,198.0,Blocks_Tkl+Int
+Top,Antonee Robinson,173.0,Blocks_Tkl+Int
+Top,Vinicius Souza,157.0,Blocks_Tkl+Int
+,,,
+Bottom,,,Blocks_Tkl+Int
+Bottom,Alisson,0.0,Blocks_Tkl+Int
+Bottom,Daniel Bentley,0.0,Blocks_Tkl+Int
+Bottom,Martin Dúbravka,0.0,Blocks_Tkl+Int
+,,,
+Top,,,Blocks_Clr
+Top,Joachim Andersen,207.0,Blocks_Clr
+Top,James Tarkowski,191.0,Blocks_Clr
+Top,Murillo,188.0,Blocks_Clr
+,,,
+Bottom,,,Blocks_Clr
+Bottom,Tawanda Chirewa,0.0,Blocks_Clr
+Bottom,Arnaut Danjuma,0.0,Blocks_Clr
+Bottom,Lewis Dobbin,0.0,Blocks_Clr
+,,,
+Top,,,Blocks_Err
+Top,Wes Foderingham,6.0,Blocks_Err
+Top,Trent Alexander-Arnold,5.0,Blocks_Err
+Top,David Raya,5.0,Blocks_Err
+,,,
+Bottom,,,Blocks_Err
+Bottom,Max Aarons,0.0,Blocks_Err
+Bottom,Tyler Adams,0.0,Blocks_Err
+Bottom,Tosin Adarabioyo,0.0,Blocks_Err
+,,,
+Top,,,Touches
+Top,Rodri,3988.0,Touches
+Top,Pascal Groß,3534.0,Touches
+Top,Lewis Dunk,3481.0,Touches
+,,,
+Bottom,,,Touches
+Bottom,Leon Chiwome,39.0,Touches
+Bottom,Neal Maupay,40.0,Touches
+Bottom,John Fleck,49.0,Touches
+,,,
+Top,,,Def_Pen
+Top,Bernd Leno,1275.0,Def_Pen
+Top,Mark Flekken,1268.0,Def_Pen
+Top,Guglielmo Vicario,1252.0,Def_Pen
+,,,
+Bottom,,,Def_Pen
+Bottom,Lewis Dobbin,0.0,Def_Pen
+Bottom,Alex Iwobi,0.0,Def_Pen
+Bottom,Benson Manuel,0.0,Def_Pen
+,,,
+Top,,,Def_3rd.1
+Top,Lewis Dunk,1811.0,Def_3rd.1
+Top,Guglielmo Vicario,1664.0,Def_3rd.1
+Top,Bernd Leno,1645.0,Def_3rd.1
+,,,
+Bottom,,,Def_3rd.1
+Bottom,Neal Maupay,1.0,Def_3rd.1
+Bottom,Kieffer Moore,2.0,Def_3rd.1
+Bottom,Leon Chiwome,5.0,Def_3rd.1
+,,,
+Top,,,Mid_3rd.1
+Top,Rodri,2337.0,Mid_3rd.1
+Top,Virgil van Dijk,1757.0,Mid_3rd.1
+Top,William Saliba,1720.0,Mid_3rd.1
+,,,
+Bottom,,,Mid_3rd.1
+Bottom,Dean Henderson,0.0,Mid_3rd.1
+Bottom,Ionuț Radu,0.0,Mid_3rd.1
+Bottom,Mark Travers,0.0,Mid_3rd.1
+,,,
+Top,,,Att_3rd.1
+Top,Bukayo Saka,1310.0,Att_3rd.1
+Top,Phil Foden,1211.0,Att_3rd.1
+Top,Martin Ødegaard,1173.0,Att_3rd.1
+,,,
+Bottom,,,Att_3rd.1
+Bottom,Alisson,0.0,Att_3rd.1
+Bottom,Alphonse Areola,0.0,Att_3rd.1
+Bottom,Daniel Bentley,0.0,Att_3rd.1
+,,,
+Top,,,Att_Pen
+Top,Bukayo Saka,271.0,Att_Pen
+Top,Alejandro Garnacho,248.0,Att_Pen
+Top,Mohamed Salah,241.0,Att_Pen
+,,,
+Bottom,,,Att_Pen
+Bottom,Alisson,0.0,Att_Pen
+Bottom,Alphonse Areola,0.0,Att_Pen
+Bottom,Daniel Bentley,0.0,Att_Pen
+,,,
+Top,,,Live_Touches
+Top,Rodri,3988.0,Live_Touches
+Top,Pascal Groß,3533.0,Live_Touches
+Top,Lewis Dunk,3481.0,Live_Touches
+,,,
+Bottom,,,Live_Touches
+Bottom,Leon Chiwome,39.0,Live_Touches
+Bottom,Neal Maupay,40.0,Live_Touches
+Bottom,John Fleck,49.0,Live_Touches
+,,,
+Top,,,Take_Att
+Top,Mohammed Kudus,221.0,Take_Att
+Top,Jeremy Doku,169.0,Take_Att
+Top,Matheus Cunha,140.0,Take_Att
+,,,
+Bottom,,,Take_Att
+Bottom,Alisson,0.0,Take_Att
+Bottom,Daniel Bentley,0.0,Take_Att
+Bottom,Leon Chiwome,0.0,Take_Att
+,,,
+Top,,,Take_Succ
+Top,Mohammed Kudus,124.0,Take_Succ
+Top,Jeremy Doku,87.0,Take_Succ
+Top,Bruno Guimarães,72.0,Take_Succ
+,,,
+Bottom,,,Take_Succ
+Bottom,Alisson,0.0,Take_Succ
+Bottom,Mads Juel Andersen,0.0,Take_Succ
+Bottom,Benoît Badiashile,0.0,Take_Succ
+,,,
+Top,,,Take_Tkld
+Top,Mohammed Kudus,77.0,Take_Tkld
+Top,Raheem Sterling,70.0,Take_Tkld
+Top,Dejan Kulusevski,66.0,Take_Tkld
+,,,
+Bottom,,,Take_Tkld
+Bottom,Tyler Adams,0.0,Take_Tkld
+Bottom,Tosin Adarabioyo,0.0,Take_Tkld
+Bottom,Alisson,0.0,Take_Tkld
+,,,
+Top,,,Carries
+Top,Rodri,2513.0,Carries
+Top,Lewis Dunk,2417.0,Carries
+Top,Pascal Groß,2284.0,Carries
+,,,
+Bottom,,,Carries
+Bottom,Leon Chiwome,16.0,Carries
+Bottom,John Fleck,19.0,Carries
+Bottom,Neal Maupay,20.0,Carries
+,,,
+Top,,,Carries_TotDist
+Top,Rodri,11575.0,Carries_TotDist
+Top,Rúben Dias,10862.0,Carries_TotDist
+Top,Lewis Dunk,10752.0,Carries_TotDist
+,,,
+Bottom,,,Carries_TotDist
+Bottom,John Fleck,81.0,Carries_TotDist
+Bottom,Leon Chiwome,86.0,Carries_TotDist
+Bottom,Nathan Fraser,88.0,Carries_TotDist
+,,,
+Top,,,Carries_ProDist
+Top,Rúben Dias,6693.0,Carries_ProDist
+Top,Rodri,6408.0,Carries_ProDist
+Top,Jan Paul van Hecke,6274.0,Carries_ProDist
+,,,
+Bottom,,,Carries_ProDist
+Bottom,Nathan Fraser,22.0,Carries_ProDist
+Bottom,Leander Dendoncker,27.0,Carries_ProDist
+Bottom,Luke Berry,30.0,Carries_ProDist
+,,,
+Top,,,Carries_ProgC
+Top,Jeremy Doku,218.0,Carries_ProgC
+Top,Alejandro Garnacho,178.0,Carries_ProgC
+Top,Bukayo Saka,155.0,Carries_ProgC
+,,,
+Bottom,,,Carries_ProgC
+Bottom,Alisson,0.0,Carries_ProgC
+Bottom,Mads Juel Andersen,0.0,Carries_ProgC
+Bottom,Alphonse Areola,0.0,Carries_ProgC
+,,,
+Top,,,Carries_1/3
+Top,Rodri,88.0,Carries_1/3
+Top,Alejandro Garnacho,83.0,Carries_1/3
+Top,Martin Ødegaard,83.0,Carries_1/3
+,,,
+Bottom,,,Carries_1/3
+Bottom,Alisson,0.0,Carries_1/3
+Bottom,Mads Juel Andersen,0.0,Carries_1/3
+Bottom,Daniel Bentley,0.0,Carries_1/3
+,,,
+Top,,,Carries_CPA
+Top,Jeremy Doku,147.0,Carries_CPA
+Top,Alejandro Garnacho,102.0,Carries_CPA
+Top,Dejan Kulusevski,82.0,Carries_CPA
+,,,
+Bottom,,,Carries_CPA
+Bottom,Nayef Aguerd,0.0,Carries_CPA
+Bottom,Ameen Al-Dakhil,0.0,Carries_CPA
+Bottom,Alisson,0.0,Carries_CPA
+,,,
+Top,,,Carries_Mis
+Top,Dominic Solanke,136.0,Carries_Mis
+Top,Jean-Philippe Mateta,89.0,Carries_Mis
+Top,Nicolas Jackson,87.0,Carries_Mis
+,,,
+Bottom,,,Carries_Mis
+Bottom,Alphonse Areola,0.0,Carries_Mis
+Bottom,Daniel Bentley,0.0,Carries_Mis
+Bottom,Calum Chambers,0.0,Carries_Mis
+,,,
+Top,,,Carries_Dis
+Top,Mohammed Kudus,93.0,Carries_Dis
+Top,Lucas Paquetá,81.0,Carries_Dis
+Top,Dominic Solanke,81.0,Carries_Dis
+,,,
+Bottom,,,Carries_Dis
+Bottom,Tyler Adams,0.0,Carries_Dis
+Bottom,Alisson,0.0,Carries_Dis
+Bottom,Mads Juel Andersen,0.0,Carries_Dis
+,,,
+Top,,,Receiving_Rec
+Top,Rodri,3242.0,Receiving_Rec
+Top,Pascal Groß,2736.0,Receiving_Rec
+Top,Lewis Dunk,2681.0,Receiving_Rec
+,,,
+Bottom,,,Receiving_Rec
+Bottom,Leon Chiwome,18.0,Receiving_Rec
+Bottom,John Fleck,27.0,Receiving_Rec
+Bottom,Neal Maupay,28.0,Receiving_Rec
+,,,
+Top,,,Receiving_PrgR
+Top,Bukayo Saka,508.0,Receiving_PrgR
+Top,Dejan Kulusevski,388.0,Receiving_PrgR
+Top,Gabriel Martinelli,345.0,Receiving_PrgR
+,,,
+Bottom,,,Receiving_PrgR
+Bottom,Alisson,0.0,Receiving_PrgR
+Bottom,Alphonse Areola,0.0,Receiving_PrgR
+Bottom,Daniel Bentley,0.0,Receiving_PrgR
+,,,
+Top,,,Starts
+Top,Joachim Andersen,38.0,Starts
+Top,Thomas Kaminski,38.0,Starts
+Top,Max Kilman,38.0,Starts
+,,,
+Bottom,,,Starts
+Bottom,Naouirou Ahamada,0.0,Starts
+Bottom,Kieffer Moore,0.0,Starts
+Bottom,David Ozoh,0.0,Starts
+,,,
+Top,,,Compl
+Top,Max Kilman,38.0,Compl
+Top,Bernd Leno,38.0,Compl
+Top,André Onana,38.0,Compl
+,,,
+Bottom,,,Compl
+Bottom,Naouirou Ahamada,0.0,Compl
+Bottom,Jaidon Anthony,0.0,Compl
+Bottom,Shandon Baptiste,0.0,Compl
+,,,
+Top,,,Subs
+Top,Pierre Højbjerg,28.0,Subs
+Top,Harvey Elliott,23.0,Subs
+Top,Cauley Woodrow,22.0,Subs
+,,,
+Bottom,,,Subs
+Bottom,Nayef Aguerd,0.0,Subs
+Bottom,Alisson,0.0,Subs
+Bottom,Joachim Andersen,0.0,Subs
+,,,
+Top,,,unSub
+Top,Daniel Bentley,33.0,unSub
+Top,Thomas Strakosha,32.0,unSub
+Top,Aaron Ramsdale,31.0,unSub
+,,,
+Bottom,,,unSub
+Bottom,Elijah Adebayo,0.0,unSub
+Bottom,Anel Ahmedhodžić,0.0,unSub
+Bottom,Trent Alexander-Arnold,0.0,unSub
+,,,
+Top,,,PPm
+Top,Thomas Partey,2.71,PPm
+Top,Kevin De Bruyne,2.67,PPm
+Top,Aaron Ramsdale,2.67,PPm
+,,,
+Bottom,,,PPm
+Bottom,John Fleck,0.0,PPm
+Bottom,Alex Iwobi,0.0,PPm
+Bottom,Neal Maupay,0.0,PPm
+,,,
+Top,,,onG
+Top,William Saliba,91.0,onG
+Top,Rodri,87.0,onG
+Top,Declan Rice,84.0,onG
+,,,
+Bottom,,,onG
+Bottom,Rhian Brewster,0.0,onG
+Bottom,Tawanda Chirewa,0.0,onG
+Bottom,Alex Iwobi,0.0,onG
+,,,
+Top,,,onGA
+Top,Anel Ahmedhodžić,89.0,onGA
+Top,Thomas Kaminski,85.0,onGA
+Top,Gustavo Hamer,83.0,onGA
+,,,
+Bottom,,,onGA
+Bottom,Hannibal Mejbri,1.0,onGA
+Bottom,Reiss Nelson,1.0,onGA
+Bottom,Ivan Perišić,1.0,onGA
+,,,
+Top,,,onxG
+Top,Virgil van Dijk,82.1,onxG
+Top,William Saliba,76.1,onxG
+Top,Bruno Guimarães,74.0,onxG
+,,,
+Bottom,,,onxG
+Bottom,Benson Manuel,0.5,onxG
+Bottom,Jaidon Anthony,0.6,onxG
+Bottom,Tawanda Chirewa,0.8,onxG
+,,,
+Top,,,onxGA
+Top,Thomas Kaminski,77.6,onxGA
+Top,André Onana,68.9,onxGA
+Top,Max Kilman,67.7,onxGA
+,,,
+Bottom,,,onxGA
+Bottom,Tyler Adams,1.5,onxGA
+Bottom,Tawanda Chirewa,1.5,onxGA
+Bottom,Neal Maupay,1.5,onxGA
+,,,
+Top,,,Performance_Fls
+Top,Conor Gallagher,83.0,Performance_Fls
+Top,João Gomes,66.0,Performance_Fls
+Top,Luis Díaz,54.0,Performance_Fls
+,,,
+Bottom,,,Performance_Fls
+Bottom,Tyler Adams,0.0,Performance_Fls
+Bottom,Daniel Bentley,0.0,Performance_Fls
+Bottom,Eric Dier,0.0,Performance_Fls
+,,,
+Top,,,Performance_Fld
+Top,Bruno Guimarães,108.0,Performance_Fld
+Top,Jordan Ayew,94.0,Performance_Fld
+Top,Mohammed Kudus,75.0,Performance_Fld
+,,,
+Bottom,,,Performance_Fld
+Bottom,Shandon Baptiste,0.0,Performance_Fld
+Bottom,Daniel Bentley,0.0,Performance_Fld
+Bottom,Hannes Delcroix,0.0,Performance_Fld
+,,,
+Top,,,Performance_Off
+Top,Darwin Núñez,33.0,Performance_Off
+Top,Nicolas Jackson,28.0,Performance_Off
+Top,Dominic Calvert-Lewin,24.0,Performance_Off
+,,,
+Bottom,,,Performance_Off
+Bottom,Tyler Adams,0.0,Performance_Off
+Bottom,Tosin Adarabioyo,0.0,Performance_Off
+Bottom,Nayef Aguerd,0.0,Performance_Off
+,,,
+Top,,,Performance_Crs
+Top,Alfie Doughty,340.0,Performance_Crs
+Top,Pascal Groß,238.0,Performance_Crs
+Top,Dwight McNeil,229.0,Performance_Crs
+,,,
+Bottom,,,Performance_Crs
+Bottom,Alisson,0.0,Performance_Crs
+Bottom,Mads Juel Andersen,0.0,Performance_Crs
+Bottom,Alphonse Areola,0.0,Performance_Crs
+,,,
+Top,,,Performance_OG
+Top,Daiki Hashioka,2.0,Performance_OG
+Top,Emiliano Martínez,2.0,Performance_OG
+Top,Konstantinos Mavropanos,2.0,Performance_OG
+,,,
+Bottom,,,Performance_OG
+Bottom,Max Aarons,0.0,Performance_OG
+Bottom,Tyler Adams,0.0,Performance_OG
+Bottom,Tosin Adarabioyo,0.0,Performance_OG
+,,,
+Top,,,Performance_Recov
+Top,Bruno Guimarães,237.0,Performance_Recov
+Top,Rodri,235.0,Performance_Recov
+Top,Ryan Christie,231.0,Performance_Recov
+,,,
+Bottom,,,Performance_Recov
+Bottom,Ionuț Radu,0.0,Performance_Recov
+Bottom,Thomas Strakosha,1.0,Performance_Recov
+Bottom,Mark Travers,1.0,Performance_Recov
+,,,
+Top,,,Aerial_Won
+Top,Virgil van Dijk,140.0,Aerial_Won
+Top,James Tarkowski,140.0,Aerial_Won
+Top,Dominic Calvert-Lewin,137.0,Aerial_Won
+,,,
+Bottom,,,Aerial_Won
+Bottom,Maxwel Cornet,0.0,Aerial_Won
+Bottom,Mahmoud Dahoud,0.0,Aerial_Won
+Bottom,Tommy Doyle,0.0,Aerial_Won
+,,,
+Top,,,Aerial_Lost
+Top,Carlton Morris,169.0,Aerial_Lost
+Top,Dominic Calvert-Lewin,144.0,Aerial_Lost
+Top,Dominic Solanke,135.0,Aerial_Lost
+,,,
+Bottom,,,Aerial_Lost
+Bottom,Daniel Bentley,0.0,Aerial_Lost
+Bottom,Martin Dúbravka,0.0,Aerial_Lost
+Bottom,Ederson,0.0,Aerial_Lost
+,,,
